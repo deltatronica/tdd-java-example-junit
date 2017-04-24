@@ -4,5 +4,5 @@ jdk: oraclejdk7
 test:
     post:
         - if [ -e ./gradlew ]; then ./gradlew jacocoTestReport;else gradle jacocoTestReport;fi
-        - bash <(curl -s https://codecov.io/bash)
+        - bash <(curl -s https://codecov.io/bash) -t 33085c54-6ed3-472b-82e5-c8c9d666384c
 # comments are like this
