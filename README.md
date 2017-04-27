@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/deltatronica/tdd-java-example-junit.svg?branch=master)](https://travis-ci.org/deltatronica/tdd-java-example-junit)
+[![Build Status](https://travis-ci.org/deltatronica/tdd-java-example-junit.svg)](https://travis-ci.org/deltatronica/tdd-java-example-junit)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/deltatronica/tdd-java-example-junit/)
 
